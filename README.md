@@ -228,9 +228,6 @@ LIMIT 10;
 **Objective:** Identify the top 10 actors with the most appearances in Indian-produced movies.
 
 
-
-**Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
-
 ## Findings and Conclusion
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
