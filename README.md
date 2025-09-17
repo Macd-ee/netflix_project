@@ -225,7 +225,6 @@ ORDER BY COUNT(*) DESC
 LIMIT 10;
 ```
 
-**Objective:** Identify the top 10 actors with the most appearances in Indian-produced movies.
 
 
 ## Findings and Conclusion
